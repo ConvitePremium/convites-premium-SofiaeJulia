@@ -79,7 +79,8 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:true, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
-    contagem: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":18.77316605930511,"height":7.956272420125552} }
+    dresscode: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":20,"height":6} },
+    manual: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":20,"height":6} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -88,11 +89,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:25.449686064098174, top:60.466030655199084, width:19.64355312204473, height:11.449252034014982 },
-        map: { left:55.00868653749942, top:60.12078059785067, width:19.292465283626143, height:11.399863780795407 },
-        gift: { left:25.56607738805926, top:76.10537095759099, width:19.567092651757186, height:11.52034966267883 },
-        dress: { left:25.56607738805926, top:76.10537095759099, width:19.567092651757186, height:11.52034966267883 },
-        manual: { left:54.19227547112636, top:76.22044399828745, width:19.567092651757186, height:11.52034966267883 }
+        confirm: { left:22.382593412340984, top:64.26352001377421, width:14.327262312340256, height:7.306561112370971 },
+        map: { left:43.14927097739559, top:64.37856211921161, width:13.97617447392167, height:7.142099818454941 },
+        gift: { left:62.57564333254807, top:64.25266339614123, width:14.455271565495206, height:7.377658741034818 },
+        dress: { left:53.987790147643935, top:75.87521170693272, width:14.04633211861022, height:7.377658741034818 },
+        manual: { left:30.677914074361183, top:75.64506562553983, width:13.6373770716853, height:7.262585700338365 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
